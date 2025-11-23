@@ -1,3 +1,8 @@
+---
+title: Aroma Buddy — Support
+layout: default
+---
+
 # Aroma Buddy — Support
 
 Welcome! This page helps you with common questions, restoring purchases, and contacting support.
@@ -40,3 +45,5 @@ Aroma Buddy is for wellness and education. It does not provide medical advice.
 
 ## Version Notes
 - Latest: performance improvements and minor fixes.
+
+[Privacy Policy](./privacy-policy)

@@ -1,7 +1,4 @@
----
-title: Aroma Buddy — Support
-layout: default
----
+
 
 # Aroma Buddy — Support
 
